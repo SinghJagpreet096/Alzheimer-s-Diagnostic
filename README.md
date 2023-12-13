@@ -1,5 +1,12 @@
 The dataset is private hence can not be shared here. You can download the dataset from OASIS official website."https://www.oasis-brains.org"
 
+The Report is Published in the STEM Fellowship Journal 2023 publication
+
+<img width="664" alt="Screenshot 2023-12-13 at 4 24 32 AM" src="https://github.com/SinghJagpreet096/Alzheimer-s-Diagnostic/assets/104114729/c3a543bc-a2a0-421f-9c20-d2c4c3947d45">
+
+<img width="664" alt="Screenshot 2023-12-13 at 4 25 25 AM" src="https://github.com/SinghJagpreet096/Alzheimer-s-Diagnostic/assets/104114729/1e148c1b-88d1-4d5e-ba32-4f3025ed23cc">
+
+
 
 ### Abstract
 `Alzheimer` is a nervous system disease that affects memory and thinking abilities of humans. Doctors do not consider it to be curable but if detected at early stage its progression can be slowed.
@@ -69,3 +76,9 @@ In conclusion, the `study focuses on Alzheimer's disease detection at an early s
 - Daniel S. Marcus, Anthony F. Fotenos, John G. Csernansky, John C. Morris, and Randy L. Buckner. Open Access Se- ries of Imaging Studies: Longitudinal MRI Data in Nondemented and Demented Older Adults. Journal of Cognitive Neuroscience, 22(12):2677–2684, 12 2010.
 - Sergio A Alvarez. An exact analytical re- lation among recall, precision, and classi- fication accuracy in information retrieval. Boston College, Boston, Technical Report BCCS-02-01, pages 1–22, 2002.
 - Zachary Chase Lipton, Charles Elkan, and Balakrishnan Narayanaswamy. Threshold- ing classifiers to maximize f1 score. arXiv preprint arXiv:1402.1892, 2014.
+
+## Contributors
+
+[Devender Kumar](https://www.linkedin.com/in/dev1ender/),
+[Diljit Singh](https://github.com/Diljitsingh14/),
+[Karman Singh Bains](https://github.com/bainskarman/)
